@@ -20,22 +20,22 @@ Se buscan soluciones que sean más eficientes en el uso de recursos y que reduzc
 Considera todas las etapas: 
 
 
-Extracción de materias primas
+⌘Extracción de materias primas
 
 
-Producción
+⌘Producción
 
 
-Distribución
+⌘Distribución
 
 
-Consumo
+⌘Consumo
 
 
-Reciclaje 
+⌘Reciclaje 
 
 
-Eliminación de residuos
+⌘Eliminación de residuos
 
 
 **Impacto Ambiental:** Es el efecto que las actividades humanas tienen sobre el medio ambiente. 
