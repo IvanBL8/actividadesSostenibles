@@ -14,9 +14,9 @@
 
 1.6. [Estrategias sostenibles en actividades productivas](estrategias.md) guille
 
-1.7.- [Análisis del ciclo de vida del producto](analisis.md) guille
+1.7. [Análisis del ciclo de vida del producto](analisis.md) guille
 
-1.8.- [Procesos de producción sostenibles](procesos.md) guille
+1.8. [Procesos de producción sostenibles](procesos.md) guille
 
 1.9. [Marco normativo ambiental](marco.md) ivan
 
