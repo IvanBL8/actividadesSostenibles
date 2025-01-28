@@ -57,9 +57,17 @@ La UE ha aprobado nuevas normas para la sostenibilidad de las empresas, para una
 
    
         Ley de Protección y Defensa del Medio Ambiente.
+
+        
         Ley de Aguas.
+
+        
         Ley de Gestión de Residuos.
+
+        
         Ley de Cambio Climático.
+
+  
         
 
   
@@ -72,7 +80,11 @@ La UE ha aprobado nuevas normas para la sostenibilidad de las empresas, para una
 
    
         Límites de emisiones de gases contaminantes.
+
+        
         Estándares de calidad del aire y del agua.
+
+        
         Normas sobre el tratamiento y disposición de residuos.
 
         
@@ -85,7 +97,11 @@ La UE ha aprobado nuevas normas para la sostenibilidad de las empresas, para una
 
     
         Política Nacional de Cambio Climático.
+
+        
         Política de Conservación de la Biodiversidad.
+
+        
         Política de Gestión Sostenible de Recursos Naturales.
 
         
@@ -98,8 +114,14 @@ La UE ha aprobado nuevas normas para la sostenibilidad de las empresas, para una
       
         
         El Acuerdo de París sobre el Cambio Climático.
+
+        
         El Convenio sobre la Diversidad Biológica.
+
+        
         El Protocolo de Kioto.
+
+        
         El Tratado sobre la Antártida.
 
         
@@ -115,7 +137,11 @@ Ejemplos de Instituciones en el Marco Normativo Ambiental
 
     Ministerios de Medio Ambiente: En muchos países, existen ministerios o secretarías que son responsables de la formulación y supervisión de las políticas ambientales.
 
+    
+
     Agencias Reguladoras: En algunos países, las agencias especializadas, como la Agencia de Protección Ambiental , tienen el poder de regular y hacer cumplir las normas ambientales.
+
+    
 
     Organismos Internacionales: Como la ONU, la OMS y el Programa de las Naciones Unidas para el Medio Ambiente.
 
