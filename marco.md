@@ -56,16 +56,16 @@ La UE ha aprobado nuevas normas para la sostenibilidad de las empresas, para una
    Algunos ejemplos de leyes ambientales comunes incluyen:
 
    
-Ley de Protección y Defensa del Medio Ambiente.
+⌘Ley de Protección y Defensa del Medio Ambiente.
 
       
-Ley de Aguas.
+⌘Ley de Aguas.
 
         
-Ley de Gestión de Residuos.
+⌘Ley de Gestión de Residuos.
 
       
-Ley de Cambio Climático.
+⌘Ley de Cambio Climático.
 
   
         
@@ -79,13 +79,13 @@ Ley de Cambio Climático.
    Estas normas incluyen:
 
    
-Límites de emisiones de gases contaminantes.
+⌘Límites de emisiones de gases contaminantes.
 
         
-Estándares de calidad del aire y del agua.
+⌘Estándares de calidad del aire y del agua.
 
         
-Normas sobre el tratamiento y disposición de residuos.
+⌘Normas sobre el tratamiento y disposición de residuos.
 
         
             
@@ -96,13 +96,13 @@ Normas sobre el tratamiento y disposición de residuos.
     Incluyen:
 
     
-Política Nacional de Cambio Climático.
+⌘Política Nacional de Cambio Climático.
 
         
-Política de Conservación de la Biodiversidad.
+⌘Política de Conservación de la Biodiversidad.
 
         
-Política de Gestión Sostenible de Recursos Naturales.
+⌘Política de Gestión Sostenible de Recursos Naturales.
 
         
             
@@ -113,16 +113,16 @@ Política de Gestión Sostenible de Recursos Naturales.
   Algunos de los acuerdos más conocidos incluyen:
       
         
-El Acuerdo de París sobre el Cambio Climático.
+⌘El Acuerdo de París sobre el Cambio Climático.
 
         
-El Convenio sobre la Diversidad Biológica.
+⌘El Convenio sobre la Diversidad Biológica.
 
         
-El Protocolo de Kioto.
+⌘El Protocolo de Kioto.
 
         
-El Tratado sobre la Antártida.
+⌘El Tratado sobre la Antártida.
 
         
 
@@ -135,15 +135,15 @@ El Tratado sobre la Antártida.
 Ejemplos de Instituciones en el Marco Normativo Ambiental:
 
 
-Ministerios de Medio Ambiente: En muchos países, existen ministerios o secretarías que son responsables de la formulación y supervisión de las políticas ambientales.
+⌘Ministerios de Medio Ambiente: En muchos países, existen ministerios o secretarías que son responsables de la formulación y supervisión de las políticas ambientales.
 
     
 
- Agencias Reguladoras: En algunos países, las agencias especializadas, como la Agencia de Protección Ambiental , tienen el poder de regular y hacer cumplir las normas ambientales.
+ ⌘Agencias Reguladoras: En algunos países, las agencias especializadas, como la Agencia de Protección Ambiental , tienen el poder de regular y hacer cumplir las normas ambientales.
 
     
 
-Organismos Internacionales: Como la ONU, la OMS y el Programa de las Naciones Unidas para el Medio Ambiente.
+⌘Organismos Internacionales: Como la ONU, la OMS y el Programa de las Naciones Unidas para el Medio Ambiente.
 
 
 
