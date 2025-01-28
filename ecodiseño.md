@@ -5,10 +5,10 @@ El ecodiseño es como el motor de la economía circular, una forma de hacer las 
 ### Características 
 
 Menos material:
-se debe optimizar la cantidad de materiales y energía.
+Se debe optimizar la cantidad de materiales y energía.
 
 Fácil reciclaje:
-emplear materiales que sean fáciles de reutilizar y reciclar.
+Emplear materiales que sean fáciles de reutilizar y reciclar.
 
 Uso de materiales bio:
 Es conveniente que sea de un solo tipo y biodegradable.
@@ -18,3 +18,10 @@ Los materiales deben ser longevos.
 
 Multifuncional:
 Deben ser aptos para usos diversos.
+
+Reducción de emisiones:
+El tamaño adecuado ahorra material y consumo.
+
+Innovadores:
+La innovación tecnológica puede ayudar a mejorar la eficiencia y la sostenibilidad de los productos.
+
