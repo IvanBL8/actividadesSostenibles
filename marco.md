@@ -92,8 +92,9 @@ La UE ha aprobado nuevas normas para la sostenibilidad de las empresas, para una
   **Políticas Ambientales:** Las políticas públicas son estrategias gubernamentales que guían la acción ambiental en un país o región. 
   A través de las políticas, los gobiernos definen sus prioridades y metas ambientales a largo plazo, 
   tales como la reducción de emisiones de gases de efecto invernadero, la conservación de la biodiversidad o la transición hacia una economía circular.
-
-    Incluyen:
+  
+  
+Incluyen:
 
     
 ⌘Política Nacional de Cambio Climático.
