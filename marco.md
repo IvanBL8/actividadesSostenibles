@@ -96,13 +96,13 @@ Normas sobre el tratamiento y disposición de residuos.
     Incluyen:
 
     
-    Política Nacional de Cambio Climático.
+Política Nacional de Cambio Climático.
 
         
-    Política de Conservación de la Biodiversidad.
+Política de Conservación de la Biodiversidad.
 
         
-     Política de Gestión Sostenible de Recursos Naturales.
+Política de Gestión Sostenible de Recursos Naturales.
 
         
             
@@ -113,16 +113,16 @@ Normas sobre el tratamiento y disposición de residuos.
   Algunos de los acuerdos más conocidos incluyen:
       
         
-     El Acuerdo de París sobre el Cambio Climático.
+El Acuerdo de París sobre el Cambio Climático.
 
         
-    El Convenio sobre la Diversidad Biológica.
+El Convenio sobre la Diversidad Biológica.
 
         
-    El Protocolo de Kioto.
+El Protocolo de Kioto.
 
         
-    El Tratado sobre la Antártida.
+El Tratado sobre la Antártida.
 
         
 
