@@ -56,16 +56,16 @@ La UE ha aprobado nuevas normas para la sostenibilidad de las empresas, para una
    Algunos ejemplos de leyes ambientales comunes incluyen:
 
    
-    Ley de Protección y Defensa del Medio Ambiente.
+Ley de Protección y Defensa del Medio Ambiente.
+
+      
+Ley de Aguas.
 
         
-    Ley de Aguas.
+Ley de Gestión de Residuos.
 
-        
-    Ley de Gestión de Residuos.
-
-        
-    Ley de Cambio Climático.
+      
+Ley de Cambio Climático.
 
   
         
@@ -79,13 +79,13 @@ La UE ha aprobado nuevas normas para la sostenibilidad de las empresas, para una
    Estas normas incluyen:
 
    
-    Límites de emisiones de gases contaminantes.
+Límites de emisiones de gases contaminantes.
 
         
-    Estándares de calidad del aire y del agua.
+Estándares de calidad del aire y del agua.
 
         
-    Normas sobre el tratamiento y disposición de residuos.
+Normas sobre el tratamiento y disposición de residuos.
 
         
             
@@ -132,7 +132,7 @@ La UE ha aprobado nuevas normas para la sostenibilidad de las empresas, para una
   Se conceden consultas públicas: Espacios donde las personas pueden expresar sus opiniones sobre proyectos o políticas ambientales, y a su vez sanciones y cumplimiento incluyendo mecanismos para monitorear y sancionar las actividades que incumplen las normas y leyes ambientales.
 
 
-Ejemplos de Instituciones en el Marco Normativo Ambiental
+Ejemplos de Instituciones en el Marco Normativo Ambiental:
 
 
 Ministerios de Medio Ambiente: En muchos países, existen ministerios o secretarías que son responsables de la formulación y supervisión de las políticas ambientales.
