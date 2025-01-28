@@ -1,5 +1,13 @@
 # actividadesSostenibles
 
+
+<p align="center">
+  <img src="/img/tierra.gif" alt="![economia](/img/tierra.gif)"/>
+</p>
+
+
+
+
 Índice
 
 1.1. [Introducción a la sostenibilidad en los sistemas productivos](introduccion.md) dani
